@@ -1,4 +1,4 @@
 streamlit
 yt-dlp
-whisper
+openai-whisper
 python-docx
